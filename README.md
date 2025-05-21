@@ -26,7 +26,7 @@ Người chơi cắt trái cây để đạt điểm cao nhất, mất mạng kh
 
 ## Mức độ phụ thuộc AI
 
-Mức độ phụ thuộc AI: 20%
+Mức độ phụ thuộc AI: 30%
 Sử dụng AI để tham khảo thêm về các câu lệnh chi tiết của SDL2 và hỗ trợ xử lý thuật toán tung trái cây.
 
 ## Thuật toán đã cài đặt
