@@ -8,7 +8,7 @@
 Fruit Ninja là một tựa game hành động arcade nổi tiếng, nơi người chơi sử dụng chuột để cắt các loại trái cây xuất hiện trên màn hình, đồng thời tránh chạm vào bom để không thua cuộc. Game được phát triển bằng ngôn ngữ lập trình C/C++ và sử dụng thư viện SDL2 để xử lý đồ họa, âm thanh và sự kiện. Mục tiêu là tạo ra một trải nghiệm mượt mà, vui nhộn, tái hiện tinh thần của phiên bản gốc với các cải tiến cá nhân.
 
 ## Ngưỡng điểm mong muốn
-Tôi mong muốn đạt được ngưỡng điểm 8-9.
+Tôi mong muốn đạt được ngưỡng điểm 9+.
 
 ## Lý do bảo vệ ngưỡng điểm
 Tôi tin rằng mình xứng đáng với ngưỡng điểm này dựa trên các yếu tố sau:
